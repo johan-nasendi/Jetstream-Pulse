@@ -14,13 +14,14 @@ Laravel Jetstream is a beautifully designed application starter kit for Laravel 
 
 
 
-<p align="center"><a href="https://pulse.laravel.com/" target="_blank"><img src="https://i.ytimg.com/vi/cUf7YkpNWWg/maxresdefault.jpg" width="400" alt="Logo"></a></p>
 
 
 ## Laravel Pulse
 
 Pulse delivers at-a-glance insights into your application's performance and usage. Track down bottlenecks like slow jobs and endpoints, find your most active users, and more.
-
 Laravel Pulse delivers at-a-glance insights into your application's performance and usage. With Pulse, you can track down bottlenecks like slow jobs and endpoints, find your most active users, and more.
-
 For in-depth debugging of individual events, check out Laravel Telescope.
+
+##
+
+<p align="center"><a href="https://pulse.laravel.com/" target="_blank"><img src="https://i.ytimg.com/vi/cUf7YkpNWWg/maxresdefault.jpg" width="400" alt="Logo"></a></p>
